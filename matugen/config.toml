@@ -1,0 +1,9 @@
+[config]
+
+[templates.colors]
+input_path = '/home/daywa/.config/matugen/templates/colors.json'
+output_path = '/home/daywa/.cache/colors.json'
+
+[templates.kitty]
+input_path = '/home/daywa/.config/matugen/templates/kitty.conf'
+output_path = '/home/daywa/.config/kitty/colors.conf'

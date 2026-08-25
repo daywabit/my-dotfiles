@@ -1,0 +1,12 @@
+schema=1
+component=steamclient
+module_name=steamclient.so
+device=66306
+inode=14827808
+size=49583220
+mtime_seconds=1785789996
+mtime_nanoseconds=0
+ctime_seconds=1786984595
+ctime_nanoseconds=852246958
+sha256=d0c0ff6e2c4d2abd8cee41e334e214ccd66ef22cae785f6bfb0fe81843df8900
+build_id=c878b1ffc677d1b8d4f3fea9c768e1a6c4ff7d74

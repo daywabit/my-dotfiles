@@ -1,0 +1,6 @@
+2026/08/23-22:43:57.881 2a4e Reusing MANIFEST /home/daywa/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2026/08/23-22:43:57.885 2a4e Recovering log #6
+2026/08/23-22:43:57.885 2a4e Reusing old log /home/daywa/.config/discord/Local Storage/leveldb/000006.log 
+2026/08/23-22:44:57.902 2a4e Level-0 table #10: started
+2026/08/23-22:44:57.924 2a4e Level-0 table #10: 2163304 bytes OK
+2026/08/23-22:44:57.924 2a4e Delete type=0 #6

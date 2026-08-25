@@ -1,0 +1,12 @@
+schema=1
+component=steamui
+module_name=steamui.so
+device=66306
+inode=14827812
+size=39048180
+mtime_seconds=1785790002
+mtime_nanoseconds=0
+ctime_seconds=1786984595
+ctime_nanoseconds=852246958
+sha256=833914b45fcb407e50631d1f62558a28c2f74dc7431b0f0aebd6d25e45b4cd72
+build_id=38adc592f0ab97349639b297203739db70b6547f

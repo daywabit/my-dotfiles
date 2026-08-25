@@ -1,0 +1,14 @@
+# X-SLSteamMoon-GuardianUnit=true
+[Unit]
+Description=Watch desktop launch sources for reconciliation
+
+[Path]
+PathChanged=/home/daywa/.local/share/applications
+PathChanged=/run/current-system/sw/share/applications
+PathChanged=/home/daywa/.config/autostart
+PathChanged=/run/current-system/sw/etc/xdg/autostart
+PathChanged=/home/daywa/Desktop
+Unit=slsteam-desktop-guardian.service
+
+[Install]
+WantedBy=default.target
